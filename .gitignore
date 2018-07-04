@@ -1,3 +1,4 @@
 *.bin.gz
 .ipynb_checkpoints
 scholastic
+.idea
